@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:17
-#EXTINF:10,
-ts_files/seg_000018.ts
+#EXT-X-MEDIA-SEQUENCE:18
 #EXTINF:10,
 ts_files/seg_000019.ts
 #EXTINF:10,
@@ -22,3 +20,5 @@ ts_files/seg_000025.ts
 ts_files/seg_000026.ts
 #EXTINF:10,
 ts_files/seg_000027.ts
+#EXTINF:10,
+ts_files/seg_000028.ts
