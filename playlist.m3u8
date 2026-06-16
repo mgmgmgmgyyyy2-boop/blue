@@ -19,3 +19,5 @@ ts_files/segment_005.ts
 ts_files/segment_006.ts
 #EXTINF:9.600000,
 ts_files/segment_007.ts
+#EXTINF:11.000000,
+ts_files/segment_008.ts
